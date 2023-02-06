@@ -7,9 +7,9 @@
         Console.WriteLine("Hello");
         Console.WriteLine("See you");
         Console.WriteLine("Hello");
-        //Console.WriteLine("See you");
-        Console.WriteLine("Hello");
         Console.WriteLine("See you");
+        //Console.WriteLine("Hello");
+        //Console.WriteLine("See you");
         Console.WriteLine("Hello");
         //Console.WriteLine("See you");
 
